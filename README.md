@@ -1,2 +1,1 @@
-# Student-Project-Management
-A web-based Student Project Management System developed using ASP.NET Core Web API, Entity Framework Core, SQL Server, and React. The system manages students, faculty, projects, tasks, project allocation, progress tracking, and role-based access.
+ASP.NET Core Web API-based Student Project Management System covering REST APIs, CRUD, EF Core, SQL Server, DTOs, Dependency Injection, JWT Authentication, Role-Based Authorization, FluentValidation, Middleware, API Responses, LINQ, File Services, Swagger/Scalar, and Exception Handling.
