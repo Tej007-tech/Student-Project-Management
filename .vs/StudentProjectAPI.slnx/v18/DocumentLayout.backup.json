@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:apiresponse\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\validators\\spm_projectmastervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:validators\\spm_projectmastervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\spm_userrole_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\spm_userrole_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\validators\\spm_uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:validators\\spm_uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\spm_usertype_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\spm_usertype_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\dto\\spm_logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:dto\\spm_logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\spm_user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\spm_user_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\validators\\spm_taskstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:validators\\spm_taskstatusvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\spm_projectallocation_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\spm_projectallocation_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\models\\spm_projectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:models\\spm_projectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\models\\spm_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:models\\spm_userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\models\\spm_projectallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:models\\spm_projectallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\dto\\spm_userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:dto\\spm_userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|c:\\sem 5\\.net\\full project\\api\\controllers\\dashboard_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E75F03F-661D-9570-C9EA-23CE1F4B6C35}|StudentProjectAPI.csproj|solutionrelative:controllers\\dashboard_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\ApiResponse\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ApiResponse\\ApiResponse.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\ApiResponse\\ApiResponse.cs",
+              "RelativeToolTip": "ApiResponse\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:42:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:14:45.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:25.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwJMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:26:39.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T05:11:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T04:59:15.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T05:16:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SPM_ProjectMasterValidator.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_ProjectMasterValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\SPM_ProjectMasterValidator.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_ProjectMasterValidator.cs",
+              "RelativeToolTip": "Validators\\SPM_ProjectMasterValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:31.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SPM_UserRole_Controller.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_UserRole_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SPM_UserRole_Controller.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_UserRole_Controller.cs",
+              "RelativeToolTip": "Controllers\\SPM_UserRole_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:44:28.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SPM_UserValidator.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_UserValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\SPM_UserValidator.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_UserValidator.cs",
+              "RelativeToolTip": "Validators\\SPM_UserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:56:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SPM_UserType_Controller.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_UserType_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SPM_UserType_Controller.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_UserType_Controller.cs",
+              "RelativeToolTip": "Controllers\\SPM_UserType_Controller.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SPM_LoginDTO.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\DTO\\SPM_LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SPM_LoginDTO.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\DTO\\SPM_LoginDTO.cs",
+              "RelativeToolTip": "DTO\\SPM_LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T05:10:36.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SPM_TaskStatusValidator.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_TaskStatusValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\SPM_TaskStatusValidator.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Validators\\SPM_TaskStatusValidator.cs",
+              "RelativeToolTip": "Validators\\SPM_TaskStatusValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:33.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SPM_User_Controller.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_User_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SPM_User_Controller.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_User_Controller.cs",
+              "RelativeToolTip": "Controllers\\SPM_User_Controller.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:43:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SPM_ProjectAllocation_Controller.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_ProjectAllocation_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\SPM_ProjectAllocation_Controller.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\SPM_ProjectAllocation_Controller.cs",
+              "RelativeToolTip": "Controllers\\SPM_ProjectAllocation_Controller.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:08.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SPM_UserRole.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_UserRole.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_UserRole.cs",
+              "RelativeToolTip": "Models\\SPM_UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:04.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SPM_ProjectMaster.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_ProjectMaster.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_ProjectMaster.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_ProjectMaster.cs",
+              "RelativeToolTip": "Models\\SPM_ProjectMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T04:37:01.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard_Controller.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\Dashboard_Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Dashboard_Controller.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Controllers\\Dashboard_Controller.cs",
+              "RelativeToolTip": "Controllers\\Dashboard_Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:27:06.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SPM_ProjectAllocation.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_ProjectAllocation.cs",
+              "RelativeDocumentMoniker": "Models\\SPM_ProjectAllocation.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\Models\\SPM_ProjectAllocation.cs",
+              "RelativeToolTip": "Models\\SPM_ProjectAllocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T05:36:51.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SPM_UserDTO.cs",
+              "DocumentMoniker": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\DTO\\SPM_UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SPM_UserDTO.cs",
+              "ToolTip": "C:\\SEM 5\\.Net\\FULL PROJECT\\API\\DTO\\SPM_UserDTO.cs",
+              "RelativeToolTip": "DTO\\SPM_UserDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T04:59:16.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
